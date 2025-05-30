@@ -1,16 +1,1 @@
-{
-  "name": "zeus-business-guard",
-  "version": "1.0.0",
-  "private": true,
-  "homepage": "https://pti1113.github.io/Zeus-Business-Guard",
-  "dependencies": {
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0"
-  },
-  "scripts": {
-    "start": "vite",
-    "build": "vite build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
-  }
-}
+<!-- Sample content for package.json -->
